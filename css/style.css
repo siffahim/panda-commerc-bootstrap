@@ -1,0 +1,14 @@
+.panda-bg{
+    margin-top: 80px;
+    background: #FEEAE9;
+}
+.categoris img{
+    width: 100px;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color:white;
+}
+.carousel-price-color{
+    color:#FF136F;
+}
